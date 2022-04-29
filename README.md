@@ -7,10 +7,9 @@
 <img src="https://user-images.githubusercontent.com/29150094/165936053-2c8ad01b-1300-44b6-b239-0f54d6f817c8.png" width="220" height="420"/>
 <img src="https://user-images.githubusercontent.com/29150094/165936060-4b4b941d-6e80-424b-8aa4-efee3ba78a3e.png" width="220" height="420"/>
 <img src="https://user-images.githubusercontent.com/29150094/165936068-0552f88d-2628-49b9-83c5-63291ce71f03.png" width="220" height="420"/>
-<img src="https://user-images.githubusercontent.com/29150094/165936075-7320ef3b-ead7-4ec2-b143-9d50b60bb600.png" width="220" height="420"/>
-
-
-
+<img src="https://user-images.githubusercontent.com/29150094/165944418-612300e1-c3eb-4338-baea-0c35e2364b23.png" width="220" height="420"/>
+<img src="https://user-images.githubusercontent.com/29150094/165944394-a3ec2d37-29eb-45cd-867d-ec5596972a39.png" width="220" height="420"/>
+<img src="https://user-images.githubusercontent.com/29150094/165944428-cdd5a749-c05b-4b03-887d-ba92a3867610.png" width="220" height="420"/>
 </div>
 
 # Resumo do projeto
@@ -28,8 +27,6 @@ Projeto em andamento, o app Organizze tem o objetivo de ajudar na organização 
 - `Java`
 - `Android Studio - BumbleBee`
 - `Paradigma de orientação a objetos`
-
-
 
 
 
